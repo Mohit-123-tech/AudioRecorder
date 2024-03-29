@@ -1,0 +1,6 @@
+{
+    "Name":"AudioRecorder",
+    "date":"26-03-2024",
+    "database":"src/database/Audio.db",
+    "audio":"src/audio/"
+}
